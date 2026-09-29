@@ -1,1 +1,1 @@
-print("Car search project started! Try after repository") 
+print("Car search project started! Try after repository og igen...") 
