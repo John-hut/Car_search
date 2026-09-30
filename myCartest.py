@@ -3,6 +3,7 @@
 #    1. Udvidet genkendelse af både Bilbasen.dk og DBA.dk (inklusive håndtering af skjulte links).
 #    2. Direkte links i SMS'en: Du får nu tilsendt de præcise, klikbare internetadresser på de nye biler direkte på mobilen.
 #    3. Professionel logning: Almindelige print()-statements er udskiftet med Pythons officielle logging-modul. Den skriver både til din skærm og gemmer alt i en fil kaldet robot_aktivitet.log. [1, 2, 4, 5, 6] 
+
 import time
 import os
 import logging
@@ -13,10 +14,13 @@ from playwright.sync_api import sync_playwright
 #         1. KONFIGURATION & LOGNING
 # ==========================================
 GATEWAYAPI_TOKEN = "HER_INDSÆTTER_DU_DIN_GATEWAYAPI_TOKEN"
-MIT_MOBILNUMMER = 4512345678  # Husk 45, intet + eller 00
+MIT_MOBILNUMMER = 4531856433  # Husk 45, intet + eller 00
 
+# Her indsættes de biler der skal søges på
 LINKS_FIL = "soegelinks.txt"
+# Her gemmes de biler der fundet. Der checkes her om der tidligere er sendt SMS om bilen.
 GEMTE_BILER_FIL = "set_biler.txt"
+# Hver gang robotten kører, vil den skrive præcis hvad den laver ned i filen robot_aktivitet.log
 LOG_FIL = "robot_aktivitet.log"
 
 # Opsætning af professionel logning (Skriver til både skærm og logfil)

@@ -1,0 +1,21 @@
+# Polestar 2, Modelårgang 2023 til 2026, Privat, Beløb fra €20.000 til $40.000
+
+# AutoScout24.de
+https://www.autoscout24.de/lst/polestar/kw_2/ot_gebraucht?priceto=40000&fregfrom=2023&custtype=P&cy=D&damaged_listing=exclude&desc=0&ocs_listing=include&pe_category=1&powertype=kw&pricefrom=20000&sort=standard&ustate=N%2CU&atype=C&search_id=2eyu1kg9wm0&source=detailsearch
+
+# Mobile.de
+https://suchen.mobile.de/fahrzeuge/search.html?isSearchRequest=true&s=Car&vc=Car&dam=false&ms=4%3B3%3B%3B&p=20000%3A40000&fr=2023&st=FSBO&ref=dsp
+
+# Tesla Model S, Modelårgang 2021 til 2026, Privat, Beløb fra €20.000 til $60.000
+
+# AutoScout24.de
+https://www.autoscout24.de/lst/tesla/model-s?priceto=60000&fregfrom=2021&cy=D&damaged_listing=exclude&desc=0&ocs_listing=include&powertype=kw&pricefrom=20000&sort=standard&ustate=N%2CU&atype=C&search_id=125t0nfnllf&source=detailsearch
+
+# Mobile.de
+https://suchen.mobile.de/fahrzeuge/search.html?isSearchRequest=true&s=Car&vc=Car&dam=false&fr=2021&ms=135%3B3&p=20000%3A60000&st=FSBO&ref=dsp
+
+# DBA.dk
+https://www.dba.dk/mobility/search/car?price_from=110000&price_to=200000&variant=1.8078.2000138&year_from=2016
+
+# Bilbasen.dk
+https://www.bilbasen.dk/brugt/bil/tesla/model_s?includeengroscvr=true&includeleasing=false&priceto=200000&regfrom=2008-01
